@@ -63,9 +63,10 @@ styles = StyleSheet.create({
 })
 
 function mapStateToProps (state) {
+  const { appData } = state;
   return {
-    appData: state.appData
-  }
+    appData,
+  };
 }
 
 function mapDispatchToProps (dispatch) {

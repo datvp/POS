@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "rnSaga-tvOS.app"
-               BlueprintName = "rnSaga-tvOS"
-               ReferencedContainer = "container:rnSaga.xcodeproj">
+               BuildableName = "pos-tvOS.app"
+               BlueprintName = "pos-tvOS"
+               ReferencedContainer = "container:pos.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rnSaga-tvOSTests.xctest"
-               BlueprintName = "rnSaga-tvOSTests"
-               ReferencedContainer = "container:rnSaga.xcodeproj">
+               BuildableName = "pos-tvOSTests.xctest"
+               BlueprintName = "pos-tvOSTests"
+               ReferencedContainer = "container:pos.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rnSaga-tvOSTests.xctest"
-               BlueprintName = "rnSaga-tvOSTests"
-               ReferencedContainer = "container:rnSaga.xcodeproj">
+               BuildableName = "pos-tvOSTests.xctest"
+               BlueprintName = "pos-tvOSTests"
+               ReferencedContainer = "container:pos.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rnSaga-tvOS.app"
-            BlueprintName = "rnSaga-tvOS"
-            ReferencedContainer = "container:rnSaga.xcodeproj">
+            BuildableName = "pos-tvOS.app"
+            BlueprintName = "pos-tvOS"
+            ReferencedContainer = "container:pos.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rnSaga-tvOS.app"
-            BlueprintName = "rnSaga-tvOS"
-            ReferencedContainer = "container:rnSaga.xcodeproj">
+            BuildableName = "pos-tvOS.app"
+            BlueprintName = "pos-tvOS"
+            ReferencedContainer = "container:pos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rnSaga-tvOS.app"
-            BlueprintName = "rnSaga-tvOS"
-            ReferencedContainer = "container:rnSaga.xcodeproj">
+            BuildableName = "pos-tvOS.app"
+            BlueprintName = "pos-tvOS"
+            ReferencedContainer = "container:pos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,4 +1,4 @@
-package com.rnsaga;
+package com.pos;
 
 import android.app.Application;
 

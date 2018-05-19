@@ -15,4 +15,4 @@ const ReduxApp = () => (
   </Provider>
 )
 
-AppRegistry.registerComponent('rnSaga', () => ReduxApp);
+AppRegistry.registerComponent('pos', () => ReduxApp);
